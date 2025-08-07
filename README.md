@@ -1,0 +1,2 @@
+# foreverich.py
+python
